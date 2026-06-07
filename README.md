@@ -135,18 +135,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish9670&theme=github_dark" />
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish9670&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danish9670&theme=github_dark" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9670&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=danish9670&theme=dark&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🏆 Certifications
