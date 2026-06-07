@@ -135,11 +135,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9670&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9670&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
