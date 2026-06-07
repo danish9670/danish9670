@@ -9,7 +9,7 @@
 <a href="https://github.com/danish9670/My-Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
 </a>
-<a href="https://linkedin.com/in/danish-raza">
+<a href="https://www.linkedin.com/in/danish-raza-17383332b">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
 </a>
 <a href="https://github.com/danish9670">
