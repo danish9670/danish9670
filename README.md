@@ -6,7 +6,7 @@
 
 
 
-<a href="[https://github.com/danish9670/My-Portfolio](https://my-portfolio-rho-seven-14.vercel.app/)">
+<a href="https://my-portfolio-rho-seven-14.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
 </a>
 <a href="https://www.linkedin.com/in/danish-raza-17383332b">
