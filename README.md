@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=danish9670&label=Profile%20views&color=0e75b6&style=flat" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/danish9670?label=Followers&style=social" />
 </div>
 
@@ -23,6 +22,7 @@ College  : BBDNITM Lucknow — B.Tech CSE 2026
 Location : Lucknow → Open to Delhi NCR / Noida
 Status   : 🟢 Actively Looking for Jobs (SDE-1 / Full Stack)
 Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
+Resume   : 📄 Available on Request
 ```
 
 ---
@@ -47,22 +47,12 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -125,9 +115,11 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 ## 🔥 Featured Projects
 
 | 🚀 Project | 📝 Description | 🌐 Live |
-|-----------|---------------|:-------:|
+|-----------|---------------|---------|
+| 🏨 [Hotel Booking MERN](https://github.com/danish9670/hotel-booking-MERN) | Full-stack hotel booking with admin dashboard — JWT, React, Node | 🔗 |
+| 🪑 [RentEase](https://github.com/danish9670/Rentease) | Furniture & appliance rental for students — Cart, JWT Auth | 🔗 |
+| 📋 [Notice Board](https://github.com/danish9670/notice-board) | Priority CRUD notice board — Next.js, Prisma, MySQL | [🌐 Live](https://notice-board-eight-chi.vercel.app) |
 | 🤖 [Personal AI](https://github.com/danish9670/personal-ai-final-year-project) | AI-powered assistant — Final Year B.Tech Project | 🔗 |
-| 👴 [ElderEaseCare](https://github.com/danish9670/eldercare) | Healthcare platform for elderly — India focused 🏥 | 🚧 |
 | 🌐 [My Portfolio](https://github.com/danish9670/My-Portfolio) | Personal portfolio — Next.js, TypeScript, Tailwind | [🌐 Live](https://my-portfolio-rho-seven-14.vercel.app) |
 
 ---
@@ -137,7 +129,7 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 > Building something meaningful for India 🇮🇳
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHR2aTV0MHN5ODNyaWI0MnI5Y3F6bW40aDcwcTZqbWY0ZW5kNHg1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" />
 </div>
 
 ### 👴 ElderEaseCare
@@ -151,7 +143,7 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 
 
 
-![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 
 
 
@@ -160,17 +152,15 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=300&lines=Making+healthcare+accessible+%F0%9F%92%9A" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🚀 Coming Soon
 
-> Next-level projects in the pipeline — stay tuned! 👀
+> Next-level project in the pipeline — stay tuned! 👀
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+</div>
 
 ### 🎯 Real-Time Team Collaboration App
 > Slack + Trello = One powerful app
@@ -182,53 +172,9 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 
 
 
-![Stack](https://img.shields.io/badge/MERN+Socket.io+Redis-COMING%20SOON-blueviolet?style=for-the-badge)
+![Stack](https://img.shields.io/badge/MERN+Socket.io+Redis-coming%20soon-blueviolet?style=for-the-badge)
 
 
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU3YXN4a2RmMG5xc2hkdHJucTB5Y2ZtamVsbXJ6cDByMjliM2g3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gR2qUv0wJ3rpJt2/giphy.gif" width="150" />
-</div>
-
----
-
-### 💼 Job Portal for Freshers
-> Built for people like us — freshers looking for their first break
-
-- 👤 Candidate profiles & resume upload
-- 🏢 Company dashboard
-- 🔍 Smart search & filtering
-- ⚙️ Admin panel
-
-
-
-![Stack](https://img.shields.io/badge/MERN+Cloudinary-COMING%20SOON-blueviolet?style=for-the-badge)
-
-
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU2YXRqbXYzNmQ0aTAxYzVlMTc3d2lzY2V1YmY2aHZzMnhsZGZ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="150" />
-</div>
-
----
-
-### 🎪 Event Management System
-> Create events, book tickets, scan QR — all in one
-
-- 🎟️ Ticket booking with QR code entry
-- 💳 Razorpay payment integration
-- 📊 Attendance management
-- 📅 Event creation dashboard
-
-
-
-![Stack](https://img.shields.io/badge/MERN+Razorpay-COMING%20SOON-blueviolet?style=for-the-badge)
-
-
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NxOHU5ZGxwM2ZzeG82N3VxMHJ2N2ltMTd2dmVjc2dybWM1NmZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="150" />
-</div>
 
 ---
 
@@ -236,8 +182,7 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=donut&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
 </div>
 
 <div align="center">
