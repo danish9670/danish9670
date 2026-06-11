@@ -19,7 +19,7 @@
 Name     : Danish Raza
 Role     : Full Stack Developer (MERN)
 College  : BBDNITM Lucknow — B.Tech CSE 2026
-Location : Lucknow → Open to Delhi NCR / Noida
+Location : Lucknow → Open to Delhi NCR / Noida / Anywhere
 Status   : 🟢 Actively Looking for Jobs
 Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 ```
