@@ -3,11 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="600" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" />
 </div>
 
 <div align="center">
@@ -65,6 +61,64 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 | 🤖 [Personal AI](https://github.com/danish9670/personal-ai-final-year-project) | AI-powered assistant — Final Year B.Tech Project | 🔗 |
 | 👴 [ElderEaseCare](https://github.com/danish9670/eldercare) | Healthcare platform for elderly — India focused 🚧 | 🚧 |
 | 🌐 [My Portfolio](https://github.com/danish9670/My-Portfolio) | Personal portfolio — Next.js, TypeScript, Tailwind | [🌐 Live](https://my-portfolio-rho-seven-14.vercel.app) |
+
+---
+
+## 🔨 Currently Working On
+
+> Building something meaningful for India 🇮🇳
+
+### 👴 ElderEaseCare
+> A home healthcare platform for elderly patients in India
+
+- 🏥 Nurse & caretaker booking system
+- 💊 Medicine reminder & health tracking
+- 💳 Razorpay payment integration
+- 📍 Location-based service matching
+- 👨‍👩‍👧 Family dashboard for remote monitoring
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge)
+
+---
+
+## 🚀 Coming Soon
+
+> Next-level projects in the pipeline — stay tuned! 👀
+
+### 🎯 Real-Time Team Collaboration App
+> Slack + Trello = One powerful app
+
+- ⚡ Real-time chat with Socket.io
+- 📋 Kanban boards & task management
+- 📁 File sharing & notifications
+- 🔐 JWT Authentication
+
+![Stack](https://img.shields.io/badge/MERN+Socket.io+Redis-coming%20soon-blueviolet?style=for-the-badge)
+
+---
+
+### 💼 Job Portal for Freshers
+> Built for people like us — freshers looking for their first break
+
+- 👤 Candidate profiles & resume upload
+- 🏢 Company dashboard
+- 🔍 Smart search & filtering
+- ⚙️ Admin panel
+
+![Stack](https://img.shields.io/badge/MERN+Cloudinary-coming%20soon-blueviolet?style=for-the-badge)
+
+---
+
+### 🎪 Event Management System
+> Create events, book tickets, scan QR — all in one
+
+- 🎟️ Ticket booking with QR code entry
+- 💳 Razorpay payment integration
+- 📊 Attendance management
+- 📅 Event creation dashboard
+
+![Stack](https://img.shields.io/badge/MERN+Razorpay-coming%20soon-blueviolet?style=for-the-badge)
 
 ---
 
