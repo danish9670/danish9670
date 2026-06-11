@@ -1,174 +1,147 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Danish+Raza;Full+Stack+Developer;MERN+Stack+Specialist;Building+Real-World+Apps" alt="Typing SVG" />
+</div>
 
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Danish%20Raza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Fresher&descAlignY=55&descSize=18)
-
-
-
-<a href="https://my-portfolio-rho-seven-14.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
-</a>
-<a href="https://www.linkedin.com/in/danish-raza-17383332b">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
-</a>
-<a href="https://github.com/danish9670">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
-</a>
-<a href="mailto:danishraza.stjic@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
-</a>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=danish9670&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/danish9670?label=Followers&style=social" alt="followers" />
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-- 🎓 **B.Tech Computer Science** Graduate — BBD Northern India Institute of Technology, Lucknow
-- 💻 Passionate **Full Stack Developer** specializing in the **MERN Stack**
-- 🚀 Currently building **ElderEaseCare** — a home healthcare platform for elderly patients in India
-- 🌱 Always learning and building real-world projects
-- 📫 Reach me at **danishraza.stjic@gmail.com**
+🎓 **Final Year B.Tech CSE** — BBDNITM, Lucknow (2026)  
+💻 **Full Stack Developer** — MERN Stack (MongoDB, Express, React, Node)  
+🌍 **Open to Work** — Full Stack / Frontend / Backend roles in Delhi NCR, Noida, Lucknow  
+🏗️ Currently building **ElderEaseCare** — Healthcare platform for elderly in India  
+⚡ Completed **90-hour MERN + DSA Training** at ShapeMySkills by Ducat, Noida  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
+### Frontend
 
 
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
-
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
 
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 
-**Backend:**
+### Backend
 
 
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=43853D)
-
-
-
-
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 
 
 
-![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff)
-
-
-
-**Tools:**
-
-
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
 
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+### Tools
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
 
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| 🏨 **Hotel Booking App** | Full-stack hotel booking system with admin dashboard & room management | MERN, Tailwind CSS | [Repo](https://github.com/danish9670/hotel-booking-MERN) |
-| 🛋️ **RentEase** | Furniture & appliance rental platform for students with JWT auth | MERN, JWT | [Repo](https://github.com/danish9670/Rentease.dr) |
-| 📋 **Notice Board App** | Full-stack CRUD app with priority sorting, deployed on Vercel | Next.js, Prisma, MySQL | [Repo](https://github.com/danish9670/notice-board) |
-| 📝 **Task Manager API** | RESTful API with full CRUD operations | Node.js, Express, MongoDB | [Repo](https://github.com/danish9670/task-managerapi2) |
-| 🛍️ **Livestream Shopping** | Real-time group shopping platform with event-driven backend | MERN, Real-Time | [Repo](https://github.com/danish9670/livetogether_shopping_website) |
-| 🌐 **Personal Portfolio** | Responsive portfolio website with modern UI | React, Tailwind CSS | [Repo](https://github.com/danish9670/My-Portfolio) |
-| 🤖 **Personal AI Assistant** | AI-powered web app with NLP interaction | React, Node.js, AI API | [Repo](https://github.com/danish9670/myapp) |
-| 👴 **ElderEaseCare** *(In Progress)* | Home healthcare platform connecting families with verified nurses in India | React, Node.js, MongoDB | [Repo](https://github.com/danish9670/eldercare) |
+| Project | Description | Live |
+|---------|-------------|------|
+| 🏨 [Hotel Booking MERN](https://github.com/danish9670/hotel-booking-MERN) | Full-stack hotel booking with admin dashboard — JWT Auth, React, Node | 🔗 |
+| 🪑 [RentEase](https://github.com/danish9670/Rentease) | Furniture & appliance rental platform for students — Cart system, JWT | 🔗 |
+| 📋 [Notice Board](https://github.com/danish9670/notice-board) | Priority-based CRUD notice board — Next.js, Prisma, MySQL | [Live](https://notice-board-eight-chi.vercel.app) |
+| 🤖 [Personal AI](https://github.com/danish9670/personal-ai-final-year-project) | AI-powered assistant — Final Year B.Tech Project | 🔗 |
+| 👴 [ElderEaseCare](https://github.com/danish9670/eldercare) | Healthcare platform for elderly in India — In Progress | 🚧 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danish9670&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish9670&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danish9670&theme=github_dark" />
-
-<img src="https://streak-stats.demolab.com?user=danish9670&theme=dark&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=tokyonight&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=tokyonight&border_radius=10" height="165" />
 </div>
----
 
-## 🏆 Certifications
-
-- 🎯 MERN Stack & DSA — ShapeMySkills by Ducat, Noida
-- ⚡ Node.js RESTful API Bootcamp — DevTown x Google Developer Groups
-- 🌐 Tailwind CSS Bootcamp — Devtown
-- 🤖 Generative AI Mastermind — Outskill
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9670&theme=tokyonight&border_radius=10" />
+</div>
 
 ---
+
+## 📫 Connect With Me
 
 <div align="center">
 
+[
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer)
+](https://www.linkedin.com/in/danish-raza-17383332b)
+[
 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+](https://github.com/danish9670)
+[
 
-### 💬 Let's connect and build something amazing together!
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+](mailto:danishraza.stjic@gmail.com)
+[
 
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=danish9670&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-
+](https://my-portfolio-rho-seven-14.vercel.app)
 
 </div>
