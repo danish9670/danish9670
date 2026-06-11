@@ -64,88 +64,146 @@ Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
 
 ---
 
-## 🔨 Currently Working On
 
-> Building something meaningful for India 🇮🇳
 
-### 👴 ElderEaseCare
-> A home healthcare platform for elderly patients in India
+🔨 Currently Working On
 
-- 🏥 Nurse & caretaker booking system
-- 💊 Medicine reminder & health tracking
-- 💳 Razorpay payment integration
-- 📍 Location-based service matching
-- 👨‍👩‍👧 Family dashboard for remote monitoring
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge)
-
----
-
-## 🚀 Coming Soon
-
-> Next-level projects in the pipeline — stay tuned! 👀
-
-### 🎯 Real-Time Team Collaboration App
-> Slack + Trello = One powerful app
-
-- ⚡ Real-time chat with Socket.io
-- 📋 Kanban boards & task management
-- 📁 File sharing & notifications
-- 🔐 JWT Authentication
-
-![Stack](https://img.shields.io/badge/MERN+Socket.io+Redis-coming%20soon-blueviolet?style=for-the-badge)
-
----
-
-### 💼 Job Portal for Freshers
-> Built for people like us — freshers looking for their first break
-
-- 👤 Candidate profiles & resume upload
-- 🏢 Company dashboard
-- 🔍 Smart search & filtering
-- ⚙️ Admin panel
-
-![Stack](https://img.shields.io/badge/MERN+Cloudinary-coming%20soon-blueviolet?style=for-the-badge)
-
----
-
-### 🎪 Event Management System
-> Create events, book tickets, scan QR — all in one
-
-- 🎟️ Ticket booking with QR code entry
-- 💳 Razorpay payment integration
-- 📊 Attendance management
-- 📅 Event creation dashboard
-
-![Stack](https://img.shields.io/badge/MERN+Razorpay-coming%20soon-blueviolet?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
+Building something meaningful for India 🇮🇳
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
+<table>
+<tr>
+<td width="60%">
+<h3>👴 ElderEaseCare</h3>
+<p>A home healthcare platform for elderly patients in India</p>
+<ul>
+<li>🏥 Nurse & caretaker booking system</li>
+<li>💊 Medicine reminder & health tracking</li>
+<li>💳 Razorpay payment integration</li>
+<li>📍 Location-based service matching</li>
+<li>👨‍👩‍👧 Family dashboard for remote monitoring</li>
+</ul>
+<p>
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge" />
+</p>
+</td>
+<td width="40%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHR2aTV0MHN5ODNyaWI0MnI5Y3F6bW40aDcwcTZqbWY0ZW5kNHg1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="200" />
+<br />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=200&lines=Coding+for+a+cause+%F0%9F%92%9A;Making+healthcare+accessible" alt="Typing SVG" />
+</td>
+</tr>
+</table>
+</div>
+
+───
+
+🚀 Coming Soon
+
+Next-level projects in the pipeline — stay tuned! 👀
+
+🎯 Real-Time Team Collaboration App
+
+Slack + Trello = One powerful app
+
+<div align="center">
+<table>
+<tr>
+<td width="70%">
+<ul>
+<li>⚡ Real-time chat with Socket.io</li>
+<li>📋 Kanban boards & task management</li>
+<li>📁 File sharing & notifications</li>
+<li>🔐 JWT Authentication</li>
+</ul>
+<img src="https://img.shields.io/badge/MERN+Socket.io+Redis-coming%20soon-blueviolet?style=for-the-badge" />
+</td>
+<td width="30%" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU3YXN4a2RmMG5xc2hkdHJucTB5Y2ZtamVsbXJ6cDByMjliM2g3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gR2qUv0wJ3rpJt2/giphy.gif" width="120" />
+</td>
+</tr>
+</table>
+</div>
+
+───
+
+💼 Job Portal for Freshers
+
+Built for people like us — freshers looking for their first break
+
+<div align="center">
+<table>
+<tr>
+<td width="70%">
+<ul>
+<li>👤 Candidate profiles & resume upload</li>
+<li>🏢 Company dashboard</li>
+<li>🔍 Smart search & filtering</li>
+<li>⚙️ Admin panel</li>
+</ul>
+<img src="https://img.shields.io/badge/MERN+Cloudinary-coming%20soon-blueviolet?style=for-the-badge" />
+</td>
+<td width="30%" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU2YXRqbXYzNmQ0aTAxYzVlMTc3d2lzY2V1YmY2aHZzMnhsZGZ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="120" />
+</td>
+</tr>
+</table>
+</div>
+
+───
+
+🎪 Event Management System
+
+Create events, book tickets, scan QR — all in one
+
+<div align="center">
+<table>
+<tr>
+<td width="70%">
+<ul>
+<li>🎟️ Ticket booking with QR code entry</li>
+<li>💳 Razorpay payment integration</li>
+<li>📊 Attendance management</li>
+<li>📅 Event creation dashboard</li>
+</ul>
+<img src="https://img.shields.io/badge/MERN+Razorpay-coming%20soon-blueviolet?style=for-the-badge" />
+</td>
+<td width="30%" align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NxOHU5ZGxwM2ZzeG82N3VxMHJ2N2ltMTd2dmVjc2dybWM1NmZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="120" />
+</td>
+</tr>
+</table>
+</div>
+
+───
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=danish9670&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9670&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9670&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9670&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
----
+───
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-raza-17383332b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-rho-seven-14.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danish9670)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishraza.stjic@gmail.com)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+
