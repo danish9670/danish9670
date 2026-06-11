@@ -20,9 +20,8 @@ Name     : Danish Raza
 Role     : Full Stack Developer (MERN)
 College  : BBDNITM Lucknow — B.Tech CSE 2026
 Location : Lucknow → Open to Delhi NCR / Noida
-Status   : 🟢 Actively Looking for Jobs (SDE-1 / Full Stack)
+Status   : 🟢 Actively Looking for Jobs
 Training : 90-hr MERN + DSA @ ShapeMySkills, Noida
-Resume   : 📄 Available on Request
 ```
 
 ---
@@ -30,85 +29,25 @@ Resume   : 📄 Available on Request
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
-
 ### ⚙️ Backend
-
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-
-
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-
-
 ### 🔧 Tools
-
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
 
 ---
 
@@ -120,6 +59,7 @@ Resume   : 📄 Available on Request
 | 🪑 [RentEase](https://github.com/danish9670/Rentease) | Furniture & appliance rental for students — Cart, JWT Auth | 🔗 |
 | 📋 [Notice Board](https://github.com/danish9670/notice-board) | Priority CRUD notice board — Next.js, Prisma, MySQL | [🌐 Live](https://notice-board-eight-chi.vercel.app) |
 | 🤖 [Personal AI](https://github.com/danish9670/personal-ai-final-year-project) | AI-powered assistant — Final Year B.Tech Project | 🔗 |
+| 👴 [ElderEaseCare](https://github.com/danish9670/eldercare) | Healthcare platform for elderly — India focused 🚧 | 🚧 |
 | 🌐 [My Portfolio](https://github.com/danish9670/My-Portfolio) | Personal portfolio — Next.js, TypeScript, Tailwind | [🌐 Live](https://my-portfolio-rho-seven-14.vercel.app) |
 
 ---
@@ -127,10 +67,6 @@ Resume   : 📄 Available on Request
 ## 🔨 Currently Working On
 
 > Building something meaningful for India 🇮🇳
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" />
-</div>
 
 ### 👴 ElderEaseCare
 > A home healthcare platform for elderly patients in India
@@ -141,26 +77,14 @@ Resume   : 📄 Available on Request
 - 📍 Location-based service matching
 - 👨‍👩‍👧 Family dashboard for remote monitoring
 
-
-
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-
-
-
-
 ![Stack](https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge)
-
-
 
 ---
 
 ## 🚀 Coming Soon
 
-> Next-level project in the pipeline — stay tuned! 👀
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
-</div>
+> Next-level projects in the pipeline — stay tuned! 👀
 
 ### 🎯 Real-Time Team Collaboration App
 > Slack + Trello = One powerful app
@@ -170,11 +94,31 @@ Resume   : 📄 Available on Request
 - 📁 File sharing & notifications
 - 🔐 JWT Authentication
 
-
-
 ![Stack](https://img.shields.io/badge/MERN+Socket.io+Redis-coming%20soon-blueviolet?style=for-the-badge)
 
+---
 
+### 💼 Job Portal for Freshers
+> Built for people like us — freshers looking for their first break
+
+- 👤 Candidate profiles & resume upload
+- 🏢 Company dashboard
+- 🔍 Smart search & filtering
+- ⚙️ Admin panel
+
+![Stack](https://img.shields.io/badge/MERN+Cloudinary-coming%20soon-blueviolet?style=for-the-badge)
+
+---
+
+### 🎪 Event Management System
+> Create events, book tickets, scan QR — all in one
+
+- 🎟️ Ticket booking with QR code entry
+- 💳 Razorpay payment integration
+- 📊 Attendance management
+- 📅 Event creation dashboard
+
+![Stack](https://img.shields.io/badge/MERN+Razorpay-coming%20soon-blueviolet?style=for-the-badge)
 
 ---
 
@@ -195,26 +139,10 @@ Resume   : 📄 Available on Request
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/danish-raza-17383332b)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)
-
-](https://my-portfolio-rho-seven-14.vercel.app)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/danish9670)
-[
-
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:danishraza.stjic@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-raza-17383332b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-rho-seven-14.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danish9670)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishraza.stjic@gmail.com)
 
 </div>
 
